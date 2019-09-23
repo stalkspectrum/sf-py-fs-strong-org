@@ -425,6 +425,7 @@ header {
     font-weight: bold;
     color: #ffffff;
     background-color: #ff3f40;
+    cursor: pointer;
 }
 
 .LEVEL_6_WRAPPER {
@@ -519,6 +520,7 @@ header {
     font-weight: bold;
     color: #ffffff;
     background-color: #ff3f40;
+    cursor: pointer;
 }
 
 .contact-info-holder {
