@@ -573,19 +573,21 @@ footer {
     margin-left: 14px;
 }
 
-@media screen and (max-width: 1366px) {
-    .LEVEL_2_WRAPPER {
-        margin-left: 1vw;
-        margin-right: 0;
-    }
-    .LEVEL_3_WRAPPER {
-        margin-left: 1vw;
-        margin-right: 0;
-    }
+@media screen and (max-width: 1582px) {
     .LEVEL_4_WRAPPER {
         margin-left: 1vw;
         margin-right: 0;
     }
+}
+
+@media screen and (max-width: 1460px) {
+    .LEVEL_2_WRAPPER {
+        margin-left: 1vw;
+        margin-right: 0;
+    }
+}
+
+@media screen and (max-width: 1423px) {
     .LEVEL_6_WRAPPER {
         flex-wrap: wrap;
         margin-left: 1vw;
@@ -593,9 +595,10 @@ footer {
     }
 }
 
-@media screen and (max-width: 1095px) {
-    .teamer:hover > h3 {
-        visibility: hidden;
+@media screen and (max-width: 1370px) {
+    .LEVEL_3_WRAPPER {
+        margin-left: 1vw;
+        margin-right: 0;
     }
 }
 
@@ -614,6 +617,12 @@ footer {
     }
     .send-button {
         width: 85vw;
+    }
+}
+
+@media screen and (max-width: 885px) {
+    .teamer:hover > h3 {
+        visibility: hidden;
     }
 }
 
