@@ -25,4 +25,4 @@
 [Макет для вёрстки расположен на Figma.com](https://www.figma.com/file/FmkjniLQtJaeZcZhEHEPzQex/Agnecy-Landing-Page_Main-File?node-id=0%3A1)
 
 Результат размещён на сайте
-[Результат размещён на сайте](https://stalkspectrum.github.io/sf-py-fs-strong-org/)
+[Git Pages](https://stalkspectrum.github.io/sf-py-fs-strong-org/)
